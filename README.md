@@ -12,7 +12,7 @@
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/jyotishpro?label=Follow%20Me&style=social)](https://github.com/jyotishpro)
 <br>
 <br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Jyotish%20Kumar-blue?logo=Linkedin&logoColor=blue&labelColor=black)]([https://www.linkedin.com/in/jyotish-kumar-b0505b212/])
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Jyotish%20Kumar-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/jyotish-kumar-b0505b212/)
 [![Mail](https://img.shields.io/badge/Hotmail-jyotishkumarofficial123.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](jyotishkumarofficial123@gmail.com)
 <br>
 
