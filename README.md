@@ -16,10 +16,8 @@
 [![Mail](https://img.shields.io/badge/Hotmail-jyotishkumarofficial123.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](https://mail.google.com/mail/u/1/#sent?compose=new)
 <br>
 <br>
-<br>
-<br>
 
--The language that i know:
+-<b>The language that i know:</b>
 
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
