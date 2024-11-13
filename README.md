@@ -13,7 +13,7 @@
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Jyotish%20Kumar-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/jyotish-kumar-b0505b212/)
-[![Mail](https://img.shields.io/badge/Hotmail-jyotishkumarofficial123.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](https://mail.google.com/mail/u/1/#sent)
+[![Mail](https://img.shields.io/badge/Hotmail-jyotishkumarofficial123.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](https://mail.google.com/mail/u/1/#sent?compose=new)
 <br>
 
 - 🌱 I’m currently learning ...DSA in C++ , AI and Data science
