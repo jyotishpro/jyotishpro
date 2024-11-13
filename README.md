@@ -12,8 +12,8 @@
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow%20Me&style=social)](https://github.com/jyotishpro)
 <br>
 <br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)]([https://www.linkedin.com/in/ahmad-alsawalqeh/](https://www.linkedin.com/in/jyotish-kumar-b0505b212/))
-[![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](jyotishkumarofficial123@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)]([https://www.linkedin.com/in/jyotish-kumar-b0505b212/](https://www.linkedin.com/in/jyotish-kumar-b0505b212/))
+[![Mail](https://img.shields.io/badge/Hotmail-jyotishkumarofficial123.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](jyotishkumarofficial123@gmail.com)
 <br>
 
 - 🌱 I’m currently learning ...DSA in C++ , AI and Data science
