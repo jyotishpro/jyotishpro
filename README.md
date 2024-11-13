@@ -17,8 +17,8 @@
 <br>
 
 - 🌱 I’m currently learning ...DSA in C++ , AI and Data science
-- 📫 How to reach me ... Linkedin: https://www.linkedin.com/in/jyotish-kumar-b0505b212/
-- 😄 Pronouns: He
+
+
 
 
 <!---
