@@ -40,7 +40,7 @@
 <table align="center">
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats12-sable.vercel.app/api?username=jyotishpro&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jyotish's GitHub stats" />
+      <img align="center" src="https://github-readme-stats12-sable.vercel.app/api?username=jyotishpro&show_icons=true&count_private=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jyotish's GitHub stats" />
     </td>
     <td>
       <img align="center" src="https://github-readme-stats12-sable.vercel.app/api/top-langs/?username=jyotishpro&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" />
