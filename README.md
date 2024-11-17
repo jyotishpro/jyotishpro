@@ -40,16 +40,13 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/jyotishpro/github-readme-stats">
-        <img align="center" src="https://your-vercel-instance/api?username=jyotishpro&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jyotish's GitHub stats" />
-      </a>
+      <img align="center" src="https://github-readme-stats12-sable.vercel.app/api?username=jyotishpro&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jyotish's GitHub stats" />
     </td>
     <td>
-      <a href="https://github.com/jyotishpro/github-readme-stats">
-        <img align="center" src="https://your-vercel-instance/api/top-langs/?username=jyotishpro&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" />
-      </a>
+      <img align="center" src="https://github-readme-stats12-sable.vercel.app/api/top-langs/?username=jyotishpro&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
+
 
 
