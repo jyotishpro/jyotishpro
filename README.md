@@ -31,11 +31,18 @@
 </p>
 
 <h3>The languages I know:</h3>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<h3 style="text-align: center; margin-top: 20px; margin-bottom: 20px;">The languages and technologies I know:</h3>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; padding: 10px; border: 2px solid #ccc; border-radius: 10px; margin-top: 20px; margin-bottom: 20px;">
+
+  <code><img height="40" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+  <code><img height="40" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+  <code><img height="40" alt="Next.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></code>
+  <code><img height="40" alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
+  <code><img height="40" alt="Express.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></code>
+  <code><img height="40" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
+  <code><img height="40" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
+  <code><img height="40" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+</div>
 
 <table align="center">
   <tr>
